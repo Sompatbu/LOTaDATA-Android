@@ -1,0 +1,1 @@
+include ':app', ':lotadata-sdk-latest'
